@@ -1,0 +1,14 @@
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\bin\Debug\net8.0\ConsoleAppF.exe
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\bin\Debug\net8.0\ConsoleAppF.deps.json
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\bin\Debug\net8.0\ConsoleAppF.runtimeconfig.json
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\bin\Debug\net8.0\ConsoleAppF.dll
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\bin\Debug\net8.0\ConsoleAppF.pdb
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\obj\Debug\net8.0\ConsoleAppF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\obj\Debug\net8.0\ConsoleAppF.AssemblyInfoInputs.cache
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\obj\Debug\net8.0\ConsoleAppF.AssemblyInfo.cs
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\obj\Debug\net8.0\ConsoleAppF.csproj.CoreCompileInputs.cache
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\obj\Debug\net8.0\ConsoleAppF.dll
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\obj\Debug\net8.0\refint\ConsoleAppF.dll
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\obj\Debug\net8.0\ConsoleAppF.pdb
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\obj\Debug\net8.0\ConsoleAppF.genruntimeconfig.cache
+C:\Users\bosni\OneDrive\Desktop\ConsoleAppF\ConsoleAppF\obj\Debug\net8.0\ref\ConsoleAppF.dll
